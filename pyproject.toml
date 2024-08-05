@@ -1,6 +1,6 @@
 [project]
 name = "radarproto"
-description = "Communicate with the MRT Autopilot Mavlink API"
+description = "Communicate with the MRT RADAR Protobuf API"
 dynamic = ["version"]
 requires-python = ">= 3.8"
 dependencies = ["wheel", "protobuf"]
